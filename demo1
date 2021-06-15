@@ -1,0 +1,23 @@
+<html>
+<head>
+<title> Login and Registration page </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<style>
+<body>
+{
+ 	background-image:url(C:\Users\Devi\Pictures\cat.jpg);
+ 	background-attachment: fixed;
+ 	background-size: 100% 100%;
+	margin-top:8em;
+}
+</style>
+<div class="login-page">
+<div class="form">
+    <form class="Register page">
+    <input type="text" placeholder="Username"/></div>
+    <input type="text" placeholder="Password"/></div>
+    <input type="text" placeholder="Email id"/>
+<button></button>
+</form>
+</body>
